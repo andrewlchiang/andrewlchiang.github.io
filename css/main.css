@@ -51,12 +51,19 @@ ul.posts li {
     list-style: none;
 }
 
-/* div {
-    background-color: white;
-    padding: 1em;
-} */
-
 .box {
     background-color: white;
     padding: 8px;
+}
+
+td {
+  padding: 8px;
+}
+
+.widthSet {
+    max-width: 100px;
+}
+
+.heightSet {
+    max-height: 100px;
 }
